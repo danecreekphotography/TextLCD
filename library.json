@@ -1,0 +1,22 @@
+{
+  "name": "TextLCD for mbed os 6",
+  "version": "1.0.0",
+  "description": "TextLCD library for controlling various LCD panels based on the HD44780 4-bit interface on STM32 devices, updated to work with mbed os 6, PlatformIO, and C++ 17.",
+  "keywords": "hd44780, textlcd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danecreekphotography/TextLCD"
+  },
+  "authors": [
+    {
+      "name": "Neil Enns",
+      "email": "info@danecreekphotography.com",
+      "url": "http://www.danecreekphotography.com",
+      "maintainer": true
+    }
+  ],
+  "license": "Apache",
+  "homepage": "https://github.com/danecreekphotography/TextLCD",
+  "frameworks": "mbed",
+  "platforms": "ststm32"
+}
