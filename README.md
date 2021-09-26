@@ -65,3 +65,9 @@ build_flags =
   -D LCD_ICON=1
   -D LCD_INVERT=1
 ```
+
+## Building this repo
+
+This git repo is configured for easy development using Visual Studio Code and the Remote Containers extension. Simply open the repo
+with the `Remote Containers: Clone Repository in Container Volume...` command and you'll be up and running for development with
+no configuraton required.
