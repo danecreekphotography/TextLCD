@@ -15,8 +15,11 @@
       "maintainer": true
     }
   ],
-  "license": "Apache",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/danecreekphotography/TextLCD",
   "frameworks": "mbed",
-  "platforms": "ststm32"
+  "platforms": "ststm32",
+  "export": {
+    "include": ["src/TextLCD.cpp", "include/*.h", "include/*.inc"]
+  }
 }
