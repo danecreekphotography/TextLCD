@@ -5,18 +5,18 @@
   "keywords": "hd44780, textlcd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danecreekphotography/TextLCD"
+    "url": "https://github.com/neilenns/TextLCD"
   },
   "authors": [
     {
       "name": "Neil Enns",
-      "email": "info@danecreekphotography.com",
-      "url": "http://www.danecreekphotography.com",
+      "email": "neile@live.com",
+      "url": "https://www.linkedin.com/in/neilenns/",
       "maintainer": true
     }
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/danecreekphotography/TextLCD",
+  "homepage": "https://github.com/neilenns/TextLCD",
   "frameworks": "mbed",
   "platforms": "ststm32",
   "export": {
